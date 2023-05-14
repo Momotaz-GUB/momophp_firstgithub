@@ -23,5 +23,5 @@
  echo "</br>".$i."</br>";
  echo $product_info[$i];
  }
-
+  //{{edited by ibnul}}
 ?>
